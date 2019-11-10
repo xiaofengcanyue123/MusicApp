@@ -1,0 +1,3 @@
+export const INITVIDEOLIST = 'INITVIDEOLIST'
+export const GETMOREVIDEO = 'GETMOREVIDEO'
+

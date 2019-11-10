@@ -1,0 +1,65 @@
+{
+  "status": 200,
+  "msg": "响应成功",
+  "result": [{
+      "musicId": "1",
+      "musicImg": "http://p1.music.126.net/3Loct4YhP4nsmueMMSxGOg==/109951164428455011.jpg?param=140y140",
+      "musicPlayNum": "1835万",
+      "musicTitle": "[华语速爆新歌] 最新华语音乐推荐"
+    },{
+      "musicId": "2",
+      "musicImg": "http://p1.music.126.net/rb-VLzvPt5RcIb-EJqWPZQ==/109951164426922439.jpg?param=140y140",
+      "musicPlayNum": "172万",
+      "musicTitle": "元气满满！让律动节奏唤醒美好一天"
+    },{
+      "musicId": "3",
+      "musicImg": "http://p1.music.126.net/RGcMp9gwLgnGUxknr3GWkA==/109951164216872799.jpg?param=140y140",
+      "musicPlayNum": "2734万",
+      "musicTitle": "世界它太小，小到容不下爱人的心"
+    },{
+      "musicId": "4",
+      "musicImg": "http://p4.music.126.net/0a56FLdyySKVC6g15DL-RQ==/109951164266089265.jpg?param=140y140",
+      "musicPlayNum": "45万",
+      "musicTitle": "学习歌单‖极静轻音乐"
+    },{
+      "musicId": "5",
+      "musicImg": "http://p1.music.126.net/MlRtYwuFK6_hkOfzGLJDbA==/7953867115756465.jpg?param=140y140",
+      "musicPlayNum": "3004万",
+      "musicTitle": "有些情愫，留在现场【欧美】"
+    },{
+      "musicId": "6",
+      "musicImg": "http://p1.music.126.net/V4Zorpn5g47PWPUgm06viA==/109951164305209480.jpg?param=140y140",
+      "musicPlayNum": "4010万",
+      "musicTitle": "静谧时光 | 听说你也是孤独的人"
+    },{
+      "musicId": "7",
+      "musicImg": "http://p1.music.126.net/RPilW2ADtU91CK3qkVPizA==/18720284976441185.jpg?param=140y140",
+      "musicPlayNum": "123万",
+      "musicTitle": "弦外有声——活力小提琴"      
+    },{
+      "musicId": "8",
+      "musicImg": "http://p1.music.126.net/Onxu8UDb5toKy3Invi9Qdw==/109951164415808490.jpg?param=140y140",
+      "musicPlayNum": "76万",
+      "musicTitle": "Pitchfork评选10年代最佳200首歌曲"      
+    },{
+      "musicId": "9",
+      "musicImg": "http://p1.music.126.net/XFjNk66pcwbm6JGQQQy06g==/109951164138491431.jpg?param=140y140",
+      "musicPlayNum": "51万",
+      "musicTitle": "你说天塌下来你会陪我"
+    },{ 
+      "musicId": "10",
+      "musicImg": "http://p2.music.126.net/i2YxMEF-Z7NzFloLQIVz4g==/109951164077348187.jpg?param=140y140",
+      "musicPlayNum": "2968万",
+      "musicTitle": "你会爱上这个流行华语歌单"     
+    },{ 
+      "musicId": "11",
+      "musicImg": "http://p2.music.126.net/grjfYBqyBkYgnZxmRuZjGw==/109951164073578614.jpg?param=140y140",
+      "musicPlayNum": "198万",
+      "musicTitle": "【纯音乐】睡觉、安静、解压必备"
+    },{ 
+      "musicId": "12",
+      "musicImg": "http://p3.music.126.net/lA1e5m3WtzBb9L7TAPf2zA==/109951164279740620.jpg?param=140y140",
+      "musicPlayNum": "3353万",
+      "musicTitle": "[欧美私人订制] 最懂你的欧美日推"
+  }]
+}
